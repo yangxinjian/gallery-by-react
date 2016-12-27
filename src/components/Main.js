@@ -1,5 +1,5 @@
 require('normalize.css/normalize.css');
-require('../styles/App.scss');
+require('../styles/App.css');
 //require('../style/other.scss')
 import React from 'react';
 import ReactDOM from 'react-dom';
